@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Shrikhand', cursive;
+    background-image: linear-gradient(to right, #d6ffff , #da42f5, #f2896f);
+}
+
+img {
+    width: 250px;
+}
+
+.iCry {
+    background-color: #d6ffff;
+}
+
+.sad {
+    color: #42a4f5;
+}
+
+.seeYa {
+    background-color: #da42f5;
+}
+
+.buhBye {
+    color: #e16ff2;
+}
+
+.cantWait {
+    background-color: #f2a86f;
+}
+
+.joyList {
+    color: #f2896f;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
