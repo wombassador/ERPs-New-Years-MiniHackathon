@@ -1,1 +1,0 @@
-# ERPs-New-Years-MiniHackathon
